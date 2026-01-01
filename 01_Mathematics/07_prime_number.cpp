@@ -8,7 +8,6 @@ We will deal with a few numbers such as 1, 2, and 3, and the numbers which are d
 For the remaining numbers, we iterate from 5 to sqrt(n) and check for each iteration whether (that value) or (that value + 2) divides n or not and increment the value by 6 [because any prime can be expressed as 6n+1 or 6n-1].
 If we find any number that divides, we return false, else true.
 Time complexity: O(sqrt(n))
-
 Auxiliary space: O(1)
 */
 
