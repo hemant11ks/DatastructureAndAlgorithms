@@ -1,1 +1,53 @@
 Roadmap created by Hemant :
+
+Week 1: Core C++ & Memory
+Environment & I/O
+
+Set up GCC/Clang or use an online IDE.
+
+Master std::cin, std::cout, and std::getline.
+
+Learn the speed optimization: ios::sync_with_stdio(0); cin.tie(0);.
+
+Pointers & References
+
+Understand Dereferencing (*) and Address-of (&) operators.
+
+Master Pass-by-Reference (void func(int &x)) to avoid unnecessary data copying.
+
+Learn Dynamic Memory allocation with new and delete (essential for Linked Lists).
+
+Structs & Classes
+
+Define custom types using struct.
+
+Understand Class mechanics: Constructors and Public/Private access.
+
+Practice creating pointers to class objects.
+
+Week 2: The STL (Standard Template Library)
+Vectors (Dynamic Arrays)
+
+Switch from raw arrays (int arr[10]) to std::vector<int>.
+
+Master operations: push_back(), pop_back(), size(), empty().
+
+Understand internal resizing (capacity doubling).
+
+Strings
+
+Use std::string instead of char*.
+
+Master operations: substr(), length(), find(), and concatenation (+).
+
+Iterators & Sorting
+
+Learn to traverse containers using .begin() and .end().
+
+Master std::sort(v.begin(), v.end()).
+
+Learn to write custom Comparator functions for sorting complex data.
+
+STL Containers Overview
+
+Familiarize yourself with std::stack, std::queue, std::unordered_map (Hash Map), and std::unordered_set.
