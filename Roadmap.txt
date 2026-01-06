@@ -13,6 +13,8 @@ Pointers & References
 
 Understand Dereferencing (*) and Address-of (&) operators.
 
+Need to Update many more.
+
 Master Pass-by-Reference (void func(int &x)) to avoid unnecessary data copying.
 
 Learn Dynamic Memory allocation with new and delete (essential for Linked Lists).
