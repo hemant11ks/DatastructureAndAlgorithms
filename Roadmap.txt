@@ -50,6 +50,8 @@ Master std::sort(v.begin(), v.end()).
 
 Learn to write custom Comparator functions for sorting complex data.
 
+----------------------------------------------------------------------------------------------------------------------
+
 STL Containers Overview
 
 Familiarize yourself with std::stack, std::queue, std::unordered_map (Hash Map), and std::unordered_set.
