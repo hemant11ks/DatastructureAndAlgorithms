@@ -1,0 +1,7 @@
+Use this daily:
+
+g++ file.cpp -o run.exe; .\run.exe
+
+And for serious practice:
+
+.\run.exe < input.txt > output.txt
