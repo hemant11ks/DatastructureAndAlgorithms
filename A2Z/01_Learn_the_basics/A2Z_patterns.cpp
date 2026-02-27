@@ -384,6 +384,8 @@ void numberInsideNumberPattern(int n){
         }
 }
 
+// A2Z Patterns
+
 int main()
 {
     // Adding the logic to run in testcases
