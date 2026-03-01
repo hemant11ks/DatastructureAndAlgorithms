@@ -4,8 +4,6 @@
 #include <algorithm>
 using namespace std;
 
-
-
 // Calculate the count of digits in 'n'
 // using logarithmic operation log10(n) + 1.
 int countDigits(int n){
