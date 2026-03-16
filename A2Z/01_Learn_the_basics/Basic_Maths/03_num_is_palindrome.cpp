@@ -31,5 +31,5 @@ int main()
     cout<<number<<" is not a palindrome. "<<endl;
   }
 
- return 0;
+ return 0; // return 0
 }
